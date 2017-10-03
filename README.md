@@ -19,3 +19,9 @@ TO DO:
 Find a way to enter multiple lines in interpreter without quiting on newline
 
 Clean up output some
+
+
+
+CREDITS:
+
+Shoutout to @GarnetSunset for their help!
