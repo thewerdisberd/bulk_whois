@@ -9,10 +9,12 @@ Tested on Ubuntu 16.04
 
 
 USE:
-'''python bulk_whois.py [optional filename argument]'''
+'''text
+python bulk_whois.py [optional filename argument]
+'''
 
 Reads the input file in the below format.
-'''
+'''text
 begin
 verbose
 <IPs Here>
