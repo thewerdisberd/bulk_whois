@@ -9,17 +9,8 @@ Tested on Ubuntu 16.04
 
 
 USE:
-'''text
-python bulk_whois.py [optional filename argument]
-'''
 
-Reads the input file in the below format.
-'''text
-begin
-verbose
-<IPs Here>
-end
-'''
+python bulk_whois.py [optional filename argument]
 
 
 
