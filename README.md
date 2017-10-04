@@ -8,13 +8,13 @@ Tested on Ubuntu 16.04 64-bit and Windows 7 Professional 64-bit
 
 
 
-USE:
+# USE:
 
 python bulk_whois.py [optional filename argument]
 
 
 
-TO DO:
+# TO DO:
 
 Find a way to enter multiple lines in interpreter without quiting on newline
 
@@ -22,6 +22,6 @@ Clean up output some
 
 
 
-CREDITS:
+# CREDITS:
 
 Shoutout to @GarnetSunset for their help!
